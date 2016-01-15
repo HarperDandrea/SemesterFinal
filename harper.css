@@ -1,0 +1,10 @@
+
+
+body {
+    background-image: url("PictureOfHomepage.PNG");
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+    /*repeat: no-repeat;*/
+}
+.menubar{}
